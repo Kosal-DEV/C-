@@ -17,13 +17,13 @@ string prenom = "Alice";
 ```
 Les différents typage en C#
 ```C#
-| Type     | Description                      | Exemple              |
-|----------|----------------------------------|-----------------------|
-| `int`    | Entier (valeurs entières)        | `int x = 10;`         |
-| `float`  | Nombre à virgule (simple précision) | `float f = 3.14f;` |
-| `double` | Nombre à virgule (double précision) | `double d = 5.678;` |
-| `bool`   | Booléen (vrai ou faux)           | `bool isOn = true;`   |
-| `char`   | Caractère unique                 | `char lettre = 'A';`  |
-| `string` | Chaîne de caractères             | `string nom = "Jean";`|
+| Type     | Description                         | Exemple             |
+|----------|-------------------------------------|---------------------|
+| `int`    | Entier (valeurs entières)           | int age = 10;       |
+| `float`  | Nombre à virgule (simple précision) | float prix = 3.14f; |
+| `double` | Nombre à virgule (double précision) | double d = 5.678;   |
+| `bool`   | Booléen (vrai ou faux)              | bool isOn = true;   |
+| `char`   | Caractère unique                    | char lettre = 'A';  |
+| `string` | Chaîne de caractères                | string nom = "Jean";|
 
 ```
